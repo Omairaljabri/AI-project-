@@ -1,3 +1,4 @@
+# Constraint Satisfaction Project Sudoku puzzle Notebook
 In this project we will write an interactive AI tutorial about Constraint Satisfaction Problems(CSPs). 
 We will write it as a Jupyter notebook which implements and explains some of the essential algorithms we have seen in class.
 
